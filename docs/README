@@ -1,0 +1,11 @@
+\documentclass[10pt]{article}
+\author{pavan}
+|title{This is my first project}
+\begin{document}
+       \maketitle
+
+
+       This is a my first project
+        I hope I will learn Git
+
+\end{document}
